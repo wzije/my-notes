@@ -1,4 +1,3 @@
-```markdown
 # 1. Screening Interview (Telp / GMeet)
 
 ## Tell me about yourself
@@ -146,4 +145,4 @@ Yes, I understand that failure to provide the agreed notice period may result in
 **Answer:**
 
 Yes, I can avoid working on competing projects or clients that create a direct conflict of interest during the engagement.
-```
+
