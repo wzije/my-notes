@@ -184,7 +184,7 @@ They are hiring:
 
 
 --- 
-v2
+# Versi 2
 
 
 Kamu jangan anggap ini cuma “interview bahasa Inggris”—itu justru jebakan yang bikin grogi. Yang dinilai sebenarnya tetap **skill + cara berpikir + komunikasi**. Bahasa Inggris cuma alatnya.
