@@ -376,6 +376,214 @@ Channels are used to communicate between goroutines safely.
 
 ---
 
+# Berhubungan dg AI
+
+Iya, kemungkinan besar ada — apalagi untuk posisi backend/Golang sekarang.
+Tapi biasanya **bukan pertanyaan “AI theory”**, melainkan:
+
+* apakah kamu memakai AI tools
+* bagaimana kamu memanfaatkannya
+* apakah kamu tetap bisa berpikir sendiri
+* apakah kamu bisa maintain code hasil AI
+
+---
+
+## Pertanyaan yang mungkin muncul
+
+### 1. “Do you use AI tools like ChatGPT or Copilot?”
+
+Jawaban aman dan profesional:
+
+Yes, I use AI tools like ChatGPT to improve productivity, especially for brainstorming, debugging, documentation, and learning new concepts.
+
+However, I still review and understand the generated code before using it in production.
+
+👉 Ini bagus karena:
+
+* kamu modern
+* tapi tidak “AI dependent”
+
+---
+
+### 2. “Can you code without AI?”
+
+Ini penting.
+
+Karena sekarang banyak interviewer takut candidate:
+
+* cuma copy-paste AI
+* ga ngerti code sendiri
+
+Jawaban bagus:
+
+Yes. I use AI as a supporting tool, not as a replacement for problem solving.
+
+I still understand the logic, architecture, and implementation details of the systems I build.
+
+---
+
+### 3. “How do you use AI in development?”
+
+Contoh jawaban:
+
+I usually use AI for:
+
+* generating boilerplate code
+* explaining unfamiliar concepts
+* improving code readability
+* debugging
+* writing documentation
+
+But for architecture and business logic decisions, I still rely on my own understanding and experience.
+
+---
+
+## Untuk kamu pribadi, jawaban ini cocok
+
+Karena background kamu memang developer beneran.
+
+Kamu bukan orang yang:
+
+* “belajar coding dari ChatGPT kemarin sore”
+* atau cuma tutorial-driven
+
+Kamu sudah:
+
+* bikin project
+* ngerti backend
+* ngerti logic
+* ngerti software development flow
+
+Jadi AI justru bisa kamu framing sebagai:
+
+> productivity tool
+
+bukan:
+
+> penopang utama skill
+
+---
+
+## Yang harus dihindari
+
+### ❌ Jangan bilang:
+
+* “I use ChatGPT for everything”
+* “AI writes most of my code”
+* “I just prompt and copy”
+
+Itu red flag besar.
+
+---
+
+## Reality interview 2026
+
+Sekarang interviewer malah curiga kalau developer:
+
+* tidak pakai AI sama sekali
+
+Karena industri memang sudah berubah.
+
+Yang mereka cari:
+
+* developer yang bisa memakai AI dengan benar
+* bukan developer yang tergantung total
+
+---
+
+Kalau mau, aku juga bisa bantu:
+
+* daftar pertanyaan interview modern 2026
+* pertanyaan Golang yang sering keluar
+* jawaban English yang aman dan natural
+* simulasi technical interview English khusus backend/Golang
+
+--- 
+Kenapa ga pake copilot, claude, openclaw
+
+
+Kalau ditanya begitu, sebenarnya mereka lagi mencoba memahami:
+
+* workflow kamu modern atau nggak
+* seberapa update kamu dengan AI ecosystem
+* apakah kamu punya engineering judgment
+
+Bukan sedang mencari “fanboy tool tertentu”.
+
+Kamu tidak harus pakai semuanya.
+
+---
+
+Jawaban yang bagus itu:
+
+* jujur
+* praktis
+* menunjukkan kamu ngerti tool landscape
+
+Contoh jawaban aman dan profesional:
+
+I’ve tried several AI tools, including ChatGPT and GitHub Copilot.
+
+For me, the most important thing is not the specific tool, but how effectively it improves productivity and code quality.
+
+I usually use AI tools for brainstorming, debugging, and reducing repetitive work, while still reviewing the implementation carefully.
+
+---
+
+Kalau mereka spesifik tanya:
+
+> “Why not use Copilot or Claude more?”
+
+Jawaban santai tapi kuat:
+
+I’m open to using different tools depending on the workflow and project needs.
+
+Right now, I mostly focus on tools that help me think faster and improve development efficiency, rather than depending on a single platform.
+
+---
+
+Kalau bahas AI agents seperti:
+
+* OpenDevin
+* OpenHands
+* OpenClaw
+* Cursor Agent
+* Devin
+* Claude Code
+
+Mereka biasanya ingin lihat:
+
+* kamu aware teknologi terbaru
+* tapi tetap realistis
+
+Jawaban bagus:
+
+I think AI agents are interesting and useful for automation and repetitive tasks.
+
+But in real projects, developer understanding and decision making are still very important, especially for architecture, debugging, and maintaining production systems.
+
+---
+
+Dan sebenarnya… jawaban kamu bisa jadi nilai plus besar.
+
+Karena banyak candidate sekarang:
+
+* terlalu hype AI
+* terlalu “vibe coding”
+* tidak ngerti code sendiri
+
+Sedangkan perusahaan serius biasanya tetap cari:
+
+* engineer yang bisa berpikir
+* bukan sekadar operator prompt
+
+---
+
+Karena kamu background backend developer beneran, positioning terbaikmu adalah:
+
+> “I use AI to accelerate development, not replace engineering thinking.”
+
+Kalimat itu powerful banget di interview modern.
 
 
 
