@@ -180,3 +180,202 @@ They are hiring:
 - How reliable you are
 
 → Make them feel: “This person is safe to work with.”
+
+
+
+--- 
+v2
+
+
+Kamu jangan anggap ini cuma “interview bahasa Inggris”—itu justru jebakan yang bikin grogi. Yang dinilai sebenarnya tetap **skill + cara berpikir + komunikasi**. Bahasa Inggris cuma alatnya.
+
+Aku bantu breakdown biar kamu bisa latihan dengan fokus dan realistis.
+
+---
+
+## 1. Yang kemungkinan akan diuji
+
+Dari posisi **Golang Developer**, biasanya mereka cek:
+
+### a. Screening Interview (awal)
+
+Fokus:
+
+* Perkenalan diri (background kamu)
+* Pengalaman (project, kerja, freelance)
+* Basic English conversation
+
+Contoh:
+
+* “Tell me about yourself”
+* “What projects have you worked on?”
+* “Why Golang?”
+
+👉 Ini bukan grammar test. Mereka cuma lihat: **kamu bisa nyampein ide atau tidak**
+
+---
+
+### b. Technical Interview
+
+Fokus:
+
+* Golang fundamentals
+* API / backend
+* mungkin sedikit system design
+
+Contoh:
+
+* Goroutine vs thread
+* Channel di Go
+* REST API design
+* Database (PostgreSQL/MySQL)
+* Error handling di Go
+
+---
+
+### c. Assessment (kalau ada)
+
+Biasanya:
+
+* bikin API sederhana
+* atau debug code
+
+---
+
+## 2. Masalah utama kamu (jujur aja)
+
+Bukan di skill coding.
+
+👉 Tapi di: **ngomong Inggris sambil mikir teknis**
+
+Ini memang berat kalau belum biasa.
+
+---
+
+## 3. Cara latihan paling efektif (bukan teori doang)
+
+### 🔥 Step 1 — Siapkan jawaban template (WAJIB)
+
+Latih ini dulu, jangan random:
+
+#### 1. Perkenalan diri
+
+```
+Hi, my name is Jehan.
+I am a software developer with a focus on backend development, especially using Golang and Laravel.
+
+I have experience building web applications, APIs, and some custom systems for clients.
+
+Recently, I’ve been focusing more on improving my backend architecture and writing clean, maintainable code.
+```
+
+---
+
+#### 2. Cerita project (ini penting banget)
+
+```
+One of my recent projects was building a sales application.
+
+In this project, I was responsible for designing the backend API, managing the database, and implementing business logic.
+
+I used Laravel for fast development, but I’m currently transitioning to Golang for better performance and scalability.
+```
+
+---
+
+#### 3. Kenapa Golang
+
+```
+I like Golang because it's simple, fast, and great for building scalable backend systems.
+
+I also like its concurrency model using goroutines, which makes it efficient for handling multiple requests.
+```
+
+---
+
+👉 Hafalin + pahami, jangan dibaca
+
+---
+
+### 🔥 Step 2 — Latihan ngomong (ini kunci)
+
+Jangan cuma baca.
+
+Lakukan ini:
+
+* ngomong sendiri (keras)
+* rekam pakai HP
+* ulang 5–10x
+
+Kalau perlu:
+
+* aku bisa jadi interviewer kamu (practice mock interview)
+
+---
+
+### 🔥 Step 3 — Latihan jawaban teknis pakai English simple
+
+Contoh:
+
+❌ Jangan:
+
+> "Concurrency is a complex paradigm..."
+
+✅ Tapi:
+
+```
+In Golang, goroutines are lightweight threads.
+They allow us to run multiple functions at the same time.
+
+Channels are used to communicate between goroutines safely.
+```
+
+👉 simple English > grammar perfect
+
+---
+
+## 4. Mindset penting (ini sering bikin gagal)
+
+### ❌ Salah:
+
+* takut grammar salah
+* mikir terlalu lama
+* pengen terdengar “pintar”
+
+### ✅ Benar:
+
+* jawab simple
+* kalau bingung, bilang:
+
+  ```
+  Let me think for a moment
+  ```
+* kalau ga ngerti:
+
+  ```
+  Sorry, could you repeat the question?
+  ```
+
+---
+
+## 5. Latihan cepat 3 hari (realistis)
+
+### Hari 1
+
+* hafalin intro + project
+* latihan ngomong
+
+### Hari 2
+
+* latihan jawab teknikal basic (Go + API)
+* ngomong pakai English
+
+### Hari 3
+
+* simulasi interview full
+
+---
+
+
+
+
