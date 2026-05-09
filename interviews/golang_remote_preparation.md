@@ -114,6 +114,11 @@ func main() {
 - keyword `go` membuat function berjalan sebagai goroutine
 - task berjalan secara concurrent
 
+Bayangkan sebuah restoran:
+- Async itu seperti satu pelayan super cepat yang mencatat pesanan, lalu lari ke dapur, lalu lari ke kasir. Jika dia terjebak ngobrol lama dengan satu pelanggan (proses berat), pelanggan lain tidak terlayani.
+
+- Goroutine itu seperti manajer yang punya banyak pelayan (Thread OS). Jika satu pelayan sibuk di dapur, manajer akan menyuruh pelayan lain yang sedang nganggur untuk melayani meja berikutnya
+
 ### Kapan digunakan?
 
 - background processing
